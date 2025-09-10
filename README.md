@@ -52,15 +52,7 @@
 
 ## 🎞️ Final Video
 
-> 🔗 Watch here: [Add YouTube or Drive link once uploaded]
-
----
-
-## 🌺 Author
-
-**Ros Talbot**  
-[ros-talbot.com](https://ros-talbot.com)  
-Creative AI Systems Strategist | Visual Storyteller | Prompt Engineer  
+> 🔗 Watch here: [(https://youtu.be/TKTmcGKM6l4)] 
 
 ---
 
