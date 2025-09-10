@@ -36,7 +36,7 @@
 ## 📁 Files
 
 - `/assets/`: Selected stills, references, and thumbnails  
-- `tropical_homecoming_dream.mp4`: Final stitched video  
+- `homecoming.mp4`: Final stitched video  
 - `README.md`: This file  
 
 ---
