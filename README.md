@@ -14,9 +14,9 @@
 ## ✨ Project Highlights
 
 - 🧠 **AI Model**: Runway Gen-4 (Video-to-Video + Prompt-to-Video)
-- 🧰 **Tools Used**: RunwayML, Google Drive, Markdown, GitHub
+- 🧰 **Tools Used**: RunwayML, Canva, Google Drive
 - 🎼 **Soundtrack**: Cinematic ambient music — no spoken words
-- 🎥 **Structure**: 5 scenes stitched manually in editor
+- 🎥 **Structure**: 5 scenes stitched manually in Canva
 - 📷 **Style**: Poetic · Cinematic · Ancestral · Lush · Sensory
 
 ---
@@ -36,7 +36,6 @@
 ## 📁 Files
 
 - `/assets/`: Selected stills, references, and thumbnails  
-- `/scenes/`: Runway prompt descriptions for each scene  
 - `tropical_homecoming_dream.mp4`: Final stitched video  
 - `README.md`: This file  
 
