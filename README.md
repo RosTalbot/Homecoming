@@ -1,7 +1,7 @@
 # 🌺 Homecoming Dream  
 *A poetic AI-generated short film — made with Runway Gen-4 and narrated through music, not words.*
 
-![Scene Still](./your-thumbnail-image.png)
+![Scene Still](images/homecoming-still.png)
 
 ---
 
